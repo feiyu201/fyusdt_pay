@@ -2,7 +2,7 @@
 魔方财务 USDT支付插件
 插件放在/public/plugins/gateways/
 详细查看
-https://api.hjyusdt.com/
+<a target="_blank" href="https://api.hjyusdt.com/">https://api.hjyusdt.com/</a>
 <br>
 <a target="_blank" href="http://mfycj.hjyusdt.com/fyusdt_pay.zip">点击下载文件fyusdt_pay.zip</a>
 <br>
