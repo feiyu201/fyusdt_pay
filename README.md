@@ -1,4 +1,4 @@
-# fyusdt_pay
+# 欢聚网络USDT支付
 魔方财务 USDT支付插件
 插件放在/public/plugins/gateways/
 创建目录fyusdt_pay
