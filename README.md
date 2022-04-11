@@ -6,7 +6,7 @@
 详细查看
 https://api.hjyusdt.com/
 <br>
-<a href="http://mfycj.hjyusdt.com/fyusdt_pay.zip">点击下载文件fyusdt_pay.zip</a>
+<a target="_blank" href="http://mfycj.hjyusdt.com/fyusdt_pay.zip">点击下载文件fyusdt_pay.zip</a>
 <br>
 <img src="https://www.helloimg.com/images/2022/04/11/RtdUzz.jpg" alt="RtdUzz.jpg" border="0" />
 
