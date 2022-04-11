@@ -7,3 +7,4 @@
 https://api.hjyusdt.com/
 <br>
 <img src="https://www.helloimg.com/images/2022/04/11/RtdUzz.jpg" alt="RtdUzz.jpg" border="0" />
+<a href="http://mfycj.hjyusdt.com/fyusdt_pay.zip">点击下载文件fyusdt_pay.zip</a>
